@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\myapps\\Digidog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myapps\\Digidog\\GifGridScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GifGridScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myapps\\Digidog\\HomeScreen.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HomeScreen.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myapps\\Digidog\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GifGridScreen.js",
+              "DocumentMoniker": "C:\\myapps\\Digidog\\GifGridScreen.js",
+              "RelativeDocumentMoniker": "GifGridScreen.js",
+              "ToolTip": "C:\\myapps\\Digidog\\GifGridScreen.js",
+              "RelativeToolTip": "GifGridScreen.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-28T18:23:50.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeScreen.js",
+              "DocumentMoniker": "C:\\myapps\\Digidog\\HomeScreen.js",
+              "RelativeDocumentMoniker": "HomeScreen.js",
+              "ToolTip": "C:\\myapps\\Digidog\\HomeScreen.js",
+              "RelativeToolTip": "HomeScreen.js",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-28T18:22:55.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\myapps\\Digidog\\App.js",
+              "RelativeDocumentMoniker": "App.js",
+              "ToolTip": "C:\\myapps\\Digidog\\App.js",
+              "RelativeToolTip": "App.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-28T02:36:52.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
